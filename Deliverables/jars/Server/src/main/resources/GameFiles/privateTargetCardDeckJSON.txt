@@ -1,0 +1,5 @@
+{"name":"Sfumature rosse - privata","id":0,"info":"Somma dei valori di tutti i dadi rossi"}
+{"name":"\u001b[33mSfumature gialle\u001b[0m - privata","id":1,"info":"Somma dei valori di tutti i dadi gialli"}
+{"name":"\u001b[32mSfumature verdi\u001b[0m - privata","id":2,"info":"Somma dei valori di tutti i dadi verdi"}
+{"name":"\u001b[34mSfumature blu\u001b[0m - privata","id":3,"info":"Somma dei valori di tutti i dadi blu"}
+{"name":"\u001b[35mSfumature viola\u001b[0m - privata","id":4,"info":"Somma dei valori di tutti i dadi viola"}

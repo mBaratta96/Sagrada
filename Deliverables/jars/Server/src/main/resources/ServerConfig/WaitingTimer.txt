@@ -1,0 +1,1 @@
+Set how many seconds do you want to wait for other players -> 10

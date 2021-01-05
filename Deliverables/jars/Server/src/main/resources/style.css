@@ -1,0 +1,44 @@
+Label{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family:Palatino;
+    -fx-font-size: 15px;
+}
+
+JFXButton{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family:Palatino;
+    -fx-font-size: 15px;
+    -fx-background-color: #5F5F5F;
+}
+
+RadioButton{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family:Palatino;
+    -fx-font-size: 15px;
+}
+
+JFXSlider{
+
+    -fx-max-width: 100px;
+}
+
+JFXSlider .track {
+    -fx-background-color: #FFFFFF;
+}
+
+JFXSlider .colored-track {
+    -fx-background-color:#5F5F5F;
+}
+
+JFXSlider .thumb {
+    -fx-background-color:#5F5F5F;
+}
+
+JFXSlider .animated-thumb {
+    -fx-background-color:#5F5F5F;
+}
+
+JFXSlider .slider-value {
+    -fx-fill:#FFFFFF;
+    -fx-stroke:#FFFFFF;
+}
